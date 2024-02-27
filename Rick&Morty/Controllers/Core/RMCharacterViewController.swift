@@ -16,5 +16,4 @@ final class RMCharacterViewController: UIViewController {
         title = "Characters"
     }
     
-
 }
